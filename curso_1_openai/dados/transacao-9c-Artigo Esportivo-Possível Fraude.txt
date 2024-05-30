@@ -1,0 +1,9 @@
+Na análise técnica da transação ID "9c", as seguintes ações são sugeridas:
+
+1. **Notificar Cliente**: Devido ao status de "Possível Fraude" da transação e a descrição de incoerência de informações associadas à transação, é altamente recomendável notificar imediatamente o cliente sobre essa transação. A notificação deve especificar os detalhes da transação e pedir que o cliente confirme ou negue a sua validade.
+
+2. **Realizar Verificação Manual**: Para uma análise mais aprofundada, é importante realizar uma verificação manual da transação. Isso deve incluir a análise minuciosa das últimas transações e comportamentos de compra do cliente, comparando-as com a transação em questão. Um mapeamento de padrões pode auxiliar na identificação se a transação é realmente fraudulenta.
+
+3. **Acionar setor Anti-Fraude**: Conforme o status pré-definido de "Possível Fraude", é fundamental acionar o setor Anti-Fraude para investigar a transação mais profundamente. Esse setor deve ter capacidade para analisar os padrões de comportamento do cliente, as tendências de transação, e possuir ferramentas avançadas de detecção de fraude para corroborar ou refutar a indicação inicial de fraude.
+
+Classificação de fraude: A transação pode ser classificada como '**Fraude de Identidade**' caso seja confirmada, considerando que os detalhes da transação não estão coerentes com o perfil usual do cliente - o que pode indicar que algum fraudador está utilizando as informações do cliente para realizar transações sem o seu conhecimento ou consentimento. A confirmação dessa classificação deve ser realizada pelo setor Anti-Fraude após aprofundada investigação.
